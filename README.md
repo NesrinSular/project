@@ -1,6 +1,6 @@
 # project
 
-Nesrin Sular /n
-Sema Bulat /n
-Elif Vatansever /n
+Nesrin Sular
+Sema Bulat
+Elif Vatansever 
 Deniz Somuncuoğlu
